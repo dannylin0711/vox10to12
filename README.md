@@ -7,3 +7,6 @@ TODO
 - [x] Add new attribute for laser, default to 0 0 
 - [ ] Check if a certain part is curve, this would change the last two laser attribute to 2 0
 - [ ] Smooth the curve 
+
+## DISCLAIMER
+The vox files converted from this tool is just for testing, do not use in any productions.

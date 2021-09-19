@@ -9,4 +9,4 @@ TODO
 - [ ] Smooth the curve 
 
 ## DISCLAIMER
-The vox files converted from this tool is just for testing, do not use in any productions.
+The vox files converted from this tool is just for testing and fun, do not use in any productions.
